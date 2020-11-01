@@ -1,0 +1,48 @@
+body{
+  margin: 1000;
+  padding: 0;
+  text-align: center;
+  background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(library_0.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+
+
+}
+h1
+{
+  margin-top: 10px;
+  color: #AAf;
+  text-transform: uppercase;
+  transition: all 4 ease-in-out;
+}
+thead
+{
+  margin-top: 10px;
+  color: #add8e6;
+  transition: all 4 ease-in-out;
+}
+tbody
+{
+  right: 30px;
+  color: #ffa;
+  transition: all 4 ease-in-out;
+
+}
+h2
+{
+  margin-top: 10px;
+  color: #0CF;
+  text-transform: uppercase;
+  transition: all 4 ease-in-out;
+}
+a:link, a:visited
+{
+
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px 0px;
+  color: hotpink;
+  font-weight: bold;
+  background-color: #000080;
+
+}
